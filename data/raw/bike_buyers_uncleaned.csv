@@ -1,0 +1,506 @@
+ID,Marital Status,Gender,Income,Children,Occupation,Commute Distance,Region,Age,Purchased Bike,Extra_Info
+12496,Married,male,40000,1,Skilled Manual,0-1 Miles,Europe,42,No,Imported_from_other_source
+24107,Married,FEMALE,30000,3,Clerical,0-1 Miles,Europe,43,No,NaN
+14177,Married,Male,80000,5,clerikal,2-5 Miles,Europe,60,No,NaN
+24381,Single,NaN,70000,0,Professional,5-10 Miles,europe ,41,Yes,NaN
+25597,singel,Male,30000,0,Clerical,0-1 Miles,Europe,36,Yes,NaN
+13507,Married,Female,"45,000",2,Manual,1-2 Miles,Europe,50,No,NaN
+27974,Single,Male,160000,2,Management,0-1 Miles,Pacific,33,Yes,NaN
+19364,Married,Male,40000,1,Skilled Manual,0-1 Miles,Europe,43,Yes,NaN
+22155,NaN,Male,20000,2,Clerical,5-10 Miles,Pacific,58,No,NaN
+19280,Married,Male,NaN,2,Manual,0-1 Miles,Europe,NaN,Yes,NaN
+22173,Married,Female,30000,3,Skilled Manual,1-2 Miles,Pacific,54,Yes,NaN
+12697,Single,Female,90000,0,Professional,10+ Miles,Pacific,36,No,NaN
+11434,Married,Male,170000,5,Professional,0-1 Miles,Europe,55,No,NaN
+25323,Married,Male,40000,2,Clerical,1-2 Miles,Europe,35,Yes,NaN
+23542,Single,Male,60000,1,Skilled Manual,0-1 Miles,Pacific,45,Yes,NaN
+20870,Single,Female,10000,2,Manual,0-1 Miles,Europe,38,Yes,NaN
+23316,Single,Male,30000,3,Clerical,1-2 Miles,Pacific,59,Yes,NaN
+12610,Married,Female,30000,1,Clerical,0-1 Miles,Europe,47,No,NaN
+27183,Single,Male,40000,2,Clerical,1-2 Miles,Europe,35,Yes,NaN
+25940,Single,Male,20000,2,Clerical,5-10 Miles,Pacific,55,Yes,NaN
+25598,Married,Female,40000,0,Clerical,0-1 Miles,Europe,36,Yes,NaN
+21564,Single,Female,80000,0,Professional,10+ Miles,Pacific,35,No,NaN
+19193,Single,Male,40000,2,Clerical,1-2 Miles,Europe,35,Yes,NaN
+26412,Married,Female,80000,5,Management,5-10 Miles,Europe,56,No,NaN
+27184,Single,Male,40000,2,Clerical,0-1 Miles,Europe,34,No,NaN
+12590,Single,Male,30000,1,Clerical,0-1 Miles,Europe,63,No,NaN
+17841,Single,Male,30000,0,Clerical,0-1 Miles,Europe,29,Yes,NaN
+18283,NaN,Female,100000,0,Professional,5-10 Miles,Pacific,40,No,NaN
+18299,Married,Male,70000,5,Skilled Manual,5-10 Miles,Pacific,44,No,NaN
+16466,Single,Female,20000,0,Manual,0-1 Miles,Europe,32,Yes,NaN
+19273,Married,Female,20000,2,Manual,0-1 Miles,Europe,63,No,NaN
+22400,Married,Male,10000,0,Manual,0-1 Miles,Pacific,26,Yes,NaN
+20942,Single,Female,20000,0,Manual,5-10 Miles,Europe,31,No,NaN
+18484,Single,Male,80000,2,Skilled Manual,1-2 Miles,Pacific,50,Yes,NaN
+12291,Single,Male,90000,5,Professional,2-5 Miles,Europe,62,Yes,NaN
+28380,Single,Female,10000,5,Manual,0-1 Miles,Europe,41,No,NaN
+17891,Married,Female,10000,2,Manual,0-1 Miles,Europe,50,Yes,NaN
+27832,Single,Female,30000,0,Clerical,2-5 Miles,Europe,30,No,NaN
+26863,Single,Male,20000,0,Manual,2-5 Miles,Europe,28,No,NaN
+16259,Single,Female,10000,4,Manual,0-1 Miles,Europe,40,Yes,NaN
+27803,Single,Female,30000,2,Clerical,0-1 Miles,Europe,43,No,NaN
+14347,Single,Female,40000,2,Management,5-10 Miles,Pacific,65,Yes,NaN
+17703,Married,Female,10000,1,Manual,0-1 Miles,Europe,40,No,NaN
+17185,Married,Female,170000,4,Professional,5-10 Miles,Europe,48,Yes,NaN
+29380,Married,Female,20000,3,Manual,0-1 Miles,Europe,41,Yes,NaN
+23986,Married,Female,20000,1,Clerical,0-1 Miles,Europe,66,Yes,NaN
+24466,Married,Female,60000,1,Skilled Manual,5-10 Miles,Pacific,46,Yes,NaN
+29097,Single,Female,40000,2,Skilled Manual,5-10 Miles,Pacific,52,Yes,NaN
+19487,Married,Male,30000,2,Clerical,0-1 Miles,Europe,42,No,NaN
+14939,NaN,Male,40000,0,Clerical,0-1 Miles,Europe,39,Yes,NaN
+13826,Single,Female,30000,0,Clerical,0-1 Miles,Europe,28,No,NaN
+20619,Single,Male,80000,0,Professional,10+ Miles,Pacific,35,No,NaN
+12558,Married,Female,20000,1,Clerical,0-1 Miles,Europe,65,No,NaN
+24871,Single,Female,90000,4,Management,5-10 Miles,Europe,56,No,NaN
+17319,Single,Female,70000,0,Professional,5-10 Miles,Pacific,42,No,NaN
+28906,Married,Male,80000,4,Professional,10+ Miles,Europe,54,No,NaN
+12808,Married,Male,40000,0,Clerical,0-1 Miles,Europe,38,Yes,NaN
+20567,Married,Male,130000,4,Professional,5-10 Miles,Europe,61,Yes,NaN
+25502,Married,Female,40000,1,Skilled Manual,0-1 Miles,Europe,43,Yes,NaN
+15580,Married,Male,60000,2,Professional,2-5 Miles,Pacific,38,Yes,NaN
+24185,Single,Female,10000,1,Manual,1-2 Miles,Europe,45,No,NaN
+19291,Single,Female,10000,2,Manual,0-1 Miles,Europe,35,No,NaN
+16713,Married,Male,40000,2,Management,0-1 Miles,Pacific,52,Yes,NaN
+16185,Single,Male,60000,4,Professional,10+ Miles,Pacific,41,No,NaN
+14927,Married,Female,30000,1,Clerical,0-1 Miles,Europe,37,Yes,NaN
+29337,Single,Male,30000,2,Clerical,5-10 Miles,Pacific,68,No,NaN
+29355,Married,Female,40000,0,Clerical,0-1 Miles,Europe,37,Yes,NaN
+25303,Single,Male,30000,0,Manual,2-5 Miles,Europe,33,Yes,NaN
+14813,Single,Female,20000,4,Manual,0-1 Miles,Europe,43,Yes,NaN
+16438,Married,Female,10000,0,Manual,0-1 Miles,Europe,30,No,NaN
+14238,Married,Male,120000,0,Professional,10+ Miles,Pacific,36,Yes,NaN
+16200,Single,Female,10000,0,Manual,0-1 Miles,Europe,35,No,NaN
+24857,Married,Female,130000,3,Professional,0-1 Miles,Europe,52,No,NaN
+26956,Single,Female,20000,0,Manual,2-5 Miles,Europe,36,Yes,NaN
+14517,Married,Female,20000,3,Skilled Manual,1-2 Miles,Pacific,62,No,NaN
+12678,Single,Female,130000,4,Management,0-1 Miles,Pacific,372,No,NaN
+16188,Single,Female,20000,0,Manual,1-2 Miles,Europe,26,No,NaN
+27969,Married,Male,80000,0,Professional,10+ Miles,Pacific,29,Yes,NaN
+15752,Married,Male,80000,2,Skilled Manual,1-2 Miles,Pacific,50,Yes,NaN
+27745,Single,Male,40000,2,Management,5-10 Miles,Pacific,63,Yes,NaN
+20828,Married,Female,30000,4,Clerical,0-1 Miles,Europe,45,Yes,NaN
+19461,Single,Female,10000,4,Manual,0-1 Miles,Europe,40,No,NaN
+26941,Married,Male,30000,0,Clerical,0-1 Miles,Europe,47,Yes,NaN
+28412,Single,Male,20000,0,Manual,2-5 Miles,Europe,29,No,NaN
+24485,Single,Male,40000,2,Management,5-10 Miles,Pacific,52,Yes,NaN
+16514,Single,Male,10000,0,Manual,1-2 Miles,Pacific,26,Yes,NaN
+17191,Single,Male,130000,3,Professional,0-1 Miles,Europe,51,Yes,NaN
+19608,Married,Male,80000,5,Professional,1-2 Miles,Pacific,40,No,NaN
+24119,Single,Male,30000,0,Clerical,2-5 Miles,Europe,29,No,NaN
+25458,Married,Male,20000,1,Manual,1-2 Miles,Europe,40,Yes,NaN
+26886,Single,Female,30000,0,Clerical,0-1 Miles,Europe,29,Yes,NaN
+28436,Single,Male,30000,0,Clerical,0-1 Miles,Europe,30,Yes,NaN
+19562,Single,Female,60000,2,Professional,2-5 Miles,Pacific,37,Yes,NaN
+15608,Single,Female,30000,0,Clerical,2-5 Miles,Europe,33,No,NaN
+16487,Single,Female,30000,3,Skilled Manual,5-10 Miles,Pacific,55,No,NaN
+17197,Single,Female,90000,5,Professional,10+ Miles,Europe,62,No,NaN
+12507,Married,Male,30000,1,Clerical,0-1 Miles,Europe,43,No,NaN
+23940,Married,Male,40000,1,Skilled Manual,0-1 Miles,Europe,44,Yes,NaN
+19441,NaN,Male,40000,0,Clerical,0-1 Miles,Europe,NaN,Yes,NaN
+26852,Married,Female,20000,3,Manual,0-1 Miles,Europe,43,No,NaN
+12274,Single,Male,10000,2,Manual,0-1 Miles,Europe,35,No,NaN
+20236,Single,Male,60000,3,Professional,0-1 Miles,Pacific,43,Yes,NaN
+24149,Married,Male,10000,2,Manual,1-2 Miles,Europe,49,No,NaN
+26139,Single,Male,60000,1,Skilled Manual,5-10 Miles,Pacific,45,No,NaN
+18491,Single,Female,70000,2,Professional,5-10 Miles,Pacific,49,Yes,NaN
+22707,Single,Female,30000,0,Clerical,2-5 Miles,Europe,30,No,NaN
+20430,Married,Male,70000,2,Skilled Manual,5-10 Miles,Pacific,52,Yes,NaN
+27494,Single,Female,40000,2,Skilled Manual,1-2 Miles,Pacific,53,Yes,NaN
+26829,Married,Female,40000,0,Clerical,0-1 Miles,Europe,38,Yes,NaN
+28395,Single,Male,40000,0,Professional,0-1 Miles,Europe,39,Yes,NaN
+21006,Single,Female,NaN,1,Manual,0-1 Miles,Europe,46,Yes,NaN
+14682,Single,Female,70000,0,Professional,5-10 Miles,Pacific,38,No,NaN
+17650,Single,Female,40000,2,Clerical,1-2 Miles,Europe,35,No,NaN
+29191,Single,Female,130000,1,Management,0-1 Miles,Pacific,36,Yes,NaN
+15030,Married,Male,20000,0,Clerical,0-1 Miles,Pacific,26,Yes,NaN
+24140,Single,Male,10000,0,Manual,0-1 Miles,Europe,30,Yes,NaN
+22496,Married,Female,30000,1,Skilled Manual,0-1 Miles,Europe,42,No,NaN
+24065,Single,Female,20000,NaN,Manual,0-1 Miles,Europe,40,Yes,NaN
+19914,Married,Male,80000,5,Management,2-5 Miles,Europe,62,No,NaN
+12871,Single,Female,30000,0,Clerical,2-5 Miles,Europe,29,No,NaN
+22988,Married,Female,40000,2,Management,5-10 Miles,Pacific,66,Yes,NaN
+15922,Married,Male,150000,2,Professional,0-1 Miles,Europe,48,No,NaN
+12344,Single,Female,80000,0,Professional,10+ Miles,Pacific,31,No,NaN
+23627,Single,Female,100000,3,Management,5-10 Miles,Europe,56,No,NaN
+27775,Single,Female,40000,0,Clerical,0-1 Miles,Europe,38,Yes,NaN
+29301,Married,Male,80000,5,Professional,1-2 Miles,Pacific,40,No,NaN
+12716,Single,Male,30000,0,Clerical,2-5 Miles,Europe,32,No,NaN
+12472,Married,Male,30000,1,Clerical,2-5 Miles,Europe,39,No,NaN
+20970,Single,Male,10000,2,Manual,0-1 Miles,Europe,52,Yes,NaN
+26818,Single,Male,10000,3,Manual,0-1 Miles,Europe,39,Yes,NaN
+12993,Married,Male,60000,2,Professional,2-5 Miles,Pacific,37,No,NaN
+14192,Married,Male,90000,4,Management,5-10 Miles,Europe,56,Yes,NaN
+19477,Married,Male,40000,0,Professional,0-1 Miles,Europe,40,Yes,NaN
+26796,Single,Male,40000,2,Management,5-10 Miles,Pacific,65,Yes,NaN
+21094,Single,Female,30000,2,Clerical,0-1 Miles,Europe,42,No,NaN
+12234,Married,Male,10000,2,Manual,2-5 Miles,Europe,52,No,NaN
+28683,Single,Female,10000,1,Manual,5-10 Miles,Europe,35,Yes,NaN
+17994,Single,Male,20000,2,Manual,0-1 Miles,Europe,42,No,NaN
+24273,Married,Female,20000,2,Clerical,5-10 Miles,Pacific,55,Yes,NaN
+26547,Single,Female,30000,2,Clerical,5-10 Miles,Pacific,60,Yes,NaN
+22500,Single,Male,40000,0,Professional,0-1 Miles,Europe,40,Yes,NaN
+23993,Single,Female,10000,0,Manual,0-1 Miles,Pacific,26,Yes,NaN
+14832,Married,Male,40000,1,Skilled Manual,0-1 Miles,Europe,42,Yes,NaN
+16614,Married,Female,80000,0,Professional,10+ Miles,Pacific,32,No,NaN
+20877,Single,Male,30000,1,Clerical,1-2 Miles,Europe,37,Yes,NaN
+20729,Married,Female,40000,2,Clerical,0-1 Miles,Europe,34,No,NaN
+22464,Married,Male,40000,0,Clerical,0-1 Miles,Europe,37,Yes,NaN
+19475,Married,Female,40000,0,Professional,0-1 Miles,Europe,40,Yes,NaN
+19675,Married,Male,20000,4,Skilled Manual,5-10 Miles,Pacific,60,No,NaN
+12728,Single,Male,30000,0,Clerical,1-2 Miles,Europe,27,No,NaN
+26154,NaN,Male,60000,1,Skilled Manual,5-10 Miles,Pacific,43,Yes,NaN
+29117,Single,Male,100000,1,Management,0-1 Miles,Pacific,48,No,NaN
+17845,Single,Female,20000,0,Manual,1-2 Miles,Europe,32,No,NaN
+25058,Married,Male,100000,1,Management,2-5 Miles,Pacific,47,No,NaN
+23426,Single,NaN,80000,5,Management,0-1 Miles,Pacific,40,No,NaN
+14798,Single,Female,10000,4,Manual,0-1 Miles,Europe,41,Yes,NaN
+12664,Married,Female,130000,5,Professional,0-1 Miles,Europe,59,No,NaN
+23979,Single,Male,10000,2,Manual,0-1 Miles,Europe,50,No,NaN
+25605,Single,Female,20000,2,Manual,0-1 Miles,Europe,54,Yes,NaN
+20797,Married,Female,10000,1,Manual,0-1 Miles,Europe,48,No,NaN
+21980,Single,Female,60000,1,Professional,5-10 Miles,Pacific,44,Yes,NaN
+25460,Married,Female,20000,2,Manual,0-1 Miles,Europe,40,Yes,NaN
+29181,Single,Female,60000,2,Professional,0-1 Miles,Pacific,38,Yes,NaN
+24279,Single,Male,40000,2,Skilled Manual,1-2 Miles,Pacific,52,No,NaN
+22402,Married,Male,10000,0,Manual,2-5 Miles,Pacific,25,Yes,NaN
+15465,Married,Female,10000,0,Manual,0-1 Miles,Pacific,25,No,NaN
+26757,Single,Male,90000,1,Professional,2-5 Miles,Pacific,47,Yes,NaN
+14233,Single,Male,100000,0,Management,10+ Miles,Pacific,35,No,NaN
+14058,Single,Male,70000,0,Professional,5-10 Miles,Pacific,41,Yes,NaN
+12273,Married,Male,30000,1,Clerical,0-1 Miles,Europe,47,No,NaN
+17203,Married,Female,130000,4,Professional,5-10 Miles,Europe,61,Yes,NaN
+18144,Married,Female,80000,5,Management,2-5 Miles,Europe,61,No,NaN
+23963,Married,Male,10000,0,Manual,0-1 Miles,Europe,33,No,NaN
+17907,Married,Female,10000,0,Manual,2-5 Miles,Pacific,27,No,NaN
+19442,Single,Male,50000,0,Skilled Manual,0-1 Miles,Europe,37,Yes,NaN
+17504,Single,Female,80000,2,Skilled Manual,5-10 Miles,Pacific,52,Yes,NaN
+12253,Single,Female,20000,0,Manual,0-1 Miles,Pacific,29,Yes,NaN
+27304,Single,Female,110000,2,Professional,5-10 Miles,Europe,48,No,NaN
+14191,Married,Male,160000,4,Professional,10+ Miles,Europe,55,Yes,NaN
+12212,Married,Female,10000,0,Manual,0-1 Miles,Europe,37,Yes,NaN
+25529,Single,Male,10000,1,Manual,0-1 Miles,Europe,44,No,NaN
+22170,Married,Female,30000,3,Clerical,1-2 Miles,Pacific,55,Yes,NaN
+19445,Married,Female,10000,2,Manual,0-1 Miles,Europe,38,No,NaN
+15265,Single,Male,40000,2,Management,5-10 Miles,Pacific,66,Yes,NaN
+28918,Married,Female,130000,4,Management,10+ Miles,Europe,58,No,NaN
+15799,Married,Female,90000,1,Professional,2-5 Miles,Pacific,47,Yes,NaN
+11047,Married,Female,30000,3,Skilled Manual,1-2 Miles,Pacific,56,Yes,NaN
+18151,Single,Male,80000,5,Professional,10+ Miles,Europe,59,No,NaN
+20606,Married,Female,70000,0,Professional,10+ Miles,Pacific,32,Yes,NaN
+19482,Married,Male,30000,1,Clerical,0-1 Miles,Europe,44,Yes,NaN
+16489,Married,Male,30000,3,Skilled Manual,5-10 Miles,Pacific,55,No,NaN
+26944,Single,Male,NaN,2,Manual,0-1 Miles,Europe,36,Yes,NaN
+15682,Single,Female,80000,5,Management,10+ Miles,Europe,62,No,NaN
+26032,Married,Female,70000,5,Professional,10+ Miles,Pacific,41,No,NaN
+17843,Single,Female,10000,0,Manual,0-1 Miles,Europe,32,No,NaN
+25559,Single,Male,20000,0,Clerical,0-1 Miles,Pacific,25,Yes,NaN
+16209,Single,Female,50000,0,Skilled Manual,1-2 Miles,Europe,36,No,NaN
+11147,Married,Male,60000,2,Management,0-1 Miles,Pacific,67,Yes,NaN
+15214,Single,Female,100000,0,Management,1-2 Miles,Pacific,39,Yes,NaN
+11453,Single,Male,80000,0,Professional,10+ Miles,Pacific,33,Yes,NaN
+24584,Single,Male,60000,0,Professional,2-5 Miles,Pacific,31,No,NaN
+12585,Married,Male,10000,1,Manual,2-5 Miles,Pacific,27,Yes,NaN
+18626,Single,Male,40000,2,Clerical,1-2 Miles,Europe,33,Yes,NaN
+29298,Single,Female,60000,1,Skilled Manual,5-10 Miles,Pacific,46,Yes,NaN
+24842,Single,Female,90000,3,Professional,2-5 Miles,Europe,51,No,NaN
+15657,Married,Male,30000,3,Clerical,0-1 Miles,Europe,46,Yes,NaN
+11415,Single,Male,90000,5,Professional,10+ Miles,Europe,62,No,NaN
+28729,Single,Female,20000,0,Manual,1-2 Miles,Europe,26,Yes,NaN
+22633,Single,Female,40000,0,Clerical,0-1 Miles,Europe,37,Yes,NaN
+25649,Single,Female,30000,3,Clerical,0-1 Miles,Europe,42,Yes,NaN
+14669,Married,Female,80000,4,Management,0-1 Miles,Pacific,36,No,NaN
+19299,Married,Female,50000,0,Skilled Manual,0-1 Miles,Europe,36,Yes,NaN
+20946,Single,Female,30000,0,Clerical,2-5 Miles,Europe,30,No,NaN
+11451,Single,Male,70000,0,Professional,10+ Miles,Pacific,31,Yes,NaN
+25553,Married,Male,30000,1,Clerical,0-1 Miles,Europe,65,Yes,NaN
+27951,Single,Male,80000,4,Professional,2-5 Miles,Europe,54,Yes,NaN
+25026,Married,Male,20000,2,Clerical,5-10 Miles,Pacific,54,No,NaN
+13673,Single,Female,20000,NaN,Manual,0-1 Miles,Europe,25,No,NaN
+16043,Single,Male,10000,1,Manual,0-1 Miles,Europe,48,No,NaN
+22399,Single,Male,10000,0,Manual,1-2 Miles,Pacific,26,Yes,NaN
+27696,Married,Male,60000,1,Professional,5-10 Miles,Pacific,43,Yes,NaN
+25313,Single,Male,10000,0,Manual,1-2 Miles,Europe,35,No,NaN
+13813,Married,Female,30000,3,Clerical,0-1 Miles,Europe,42,No,NaN
+18711,Single,Female,70000,5,Professional,10+ Miles,Pacific,39,No,NaN
+19650,Married,Female,30000,2,Clerical,0-1 Miles,Pacific,67,No,NaN
+14135,Married,Male,20000,1,Manual,1-2 Miles,Europe,NaN,No,NaN
+12833,Single,Female,20000,3,Manual,0-1 Miles,Europe,42,Yes,NaN
+26849,Married,Male,10000,3,Manual,0-1 Miles,Europe,43,No,NaN
+20962,Married,Female,20000,1,Clerical,0-1 Miles,Europe,45,No,NaN
+28915,Single,Male,80000,5,Management,10+ Miles,Europe,57,No,NaN
+22830,Married,Male,120000,4,Management,10+ Miles,Europe,56,No,NaN
+14777,Married,Female,40000,0,Clerical,0-1 Miles,Europe,38,Yes,NaN
+12591,Married,Female,30000,4,Clerical,0-1 Miles,Europe,45,No,NaN
+24174,Married,Male,20000,0,Clerical,0-1 Miles,Pacific,27,Yes,NaN
+24611,NaN,Male,90000,0,Professional,10+ Miles,Pacific,35,Yes,NaN
+11340,Married,Female,10000,1,Clerical,0-1 Miles,Europe,70,Yes,NaN
+25693,Single,Female,30000,5,Clerical,0-1 Miles,Europe,44,Yes,NaN
+25555,Married,Female,10000,0,Manual,0-1 Miles,Pacific,26,Yes,NaN
+22006,Married,Male,70000,5,Skilled Manual,5-10 Miles,Pacific,46,No,NaN
+20060,Single,Female,30000,0,Manual,2-5 Miles,Europe,34,Yes,NaN
+17702,Married,Male,10000,1,Manual,0-1 Miles,Europe,37,No,NaN
+12503,Single,Female,30000,3,Clerical,0-1 Miles,Europe,27,No,NaN
+23908,Single,Male,30000,1,Clerical,0-1 Miles,Europe,39,Yes,NaN
+22527,Single,Female,20000,0,Manual,2-5 Miles,Europe,29,No,NaN
+19057,Married,Female,120000,3,Management,10+ Miles,Europe,52,Yes,NaN
+18494,Married,Male,110000,5,Management,2-5 Miles,Pacific,48,Yes,NaN
+11249,Married,Female,130000,3,Professional,0-1 Miles,Europe,51,Yes,NaN
+21568,Married,Female,100000,0,Management,10+ Miles,Pacific,34,Yes,NaN
+13981,Married,Female,10000,5,Skilled Manual,1-2 Miles,Pacific,62,No,NaN
+23432,Single,Male,70000,0,Professional,5-10 Miles,Pacific,37,Yes,NaN
+22931,Married,Male,100000,5,Management,1-2 Miles,Pacific,78,Yes,NaN
+18172,Married,Male,130000,4,Professional,0-1 Miles,Europe,55,No,NaN
+12666,Single,Male,60000,0,Professional,2-5 Miles,Pacific,31,No,NaN
+20598,Married,Male,100000,3,Professional,10+ Miles,Europe,59,Yes,NaN
+21375,Single,Male,20000,2,Clerical,5-10 Miles,Pacific,57,No,NaN
+20839,Single,Female,30000,3,Clerical,0-1 Miles,Europe,47,Yes,NaN
+21738,Married,Male,20000,1,Clerical,0-1 Miles,Europe,43,No,NaN
+14164,Single,Female,50000,0,Skilled Manual,0-1 Miles,Europe,36,Yes,NaN
+14193,Single,Female,100000,3,Management,10+ Miles,Europe,56,No,NaN
+12705,Married,Male,150000,0,Management,0-1 Miles,Pacific,37,Yes,NaN
+22672,Single,Female,30000,2,Clerical,0-1 Miles,Europe,43,No,NaN
+26219,Married,Female,40000,1,Skilled Manual,1-2 Miles,Europe,33,Yes,NaN
+28468,Married,Female,10000,2,Manual,1-2 Miles,Europe,51,No,NaN
+23419,Single,Female,70000,5,Professional,10+ Miles,Pacific,39,No,NaN
+17964,Married,Male,40000,0,Clerical,0-1 Miles,Europe,37,Yes,NaN
+20919,Single,Female,30000,2,Clerical,0-1 Miles,Europe,42,No,NaN
+20927,Single,Female,20000,5,Manual,0-1 Miles,Europe,27,No,NaN
+13133,Single,Male,100000,5,Professional,5-10 Miles,Pacific,47,Yes,NaN
+19626,Married,Male,70000,5,Skilled Manual,5-10 Miles,Pacific,45,No,NaN
+21039,Single,Female,50000,0,Skilled Manual,0-1 Miles,Europe,37,Yes,NaN
+12231,Single,Female,10000,2,Manual,0-1 Miles,Europe,51,Yes,NaN
+25665,Single,Female,20000,0,Manual,1-2 Miles,Europe,28,No,NaN
+24061,Married,Male,10000,4,Manual,0-1 Miles,Europe,40,Yes,NaN
+26879,Single,Female,20000,0,Manual,2-5 Miles,Europe,30,No,NaN
+12284,Married,Female,30000,0,Clerical,0-1 Miles,Europe,36,Yes,NaN
+26654,Married,Female,90000,1,Management,0-1 Miles,Pacific,37,Yes,NaN
+14545,Married,Female,10000,2,Manual,1-2 Miles,Europe,49,No,NaN
+24201,Married,Female,10000,2,Manual,0-1 Miles,Europe,37,Yes,NaN
+20625,Married,Male,100000,0,Management,10+ Miles,Pacific,35,Yes,NaN
+16390,Single,Male,30000,1,Clerical,0-1 Miles,Europe,38,Yes,NaN
+14804,Single,Female,10000,3,Manual,0-1 Miles,Europe,43,No,NaN
+12629,Single,Male,20000,1,Manual,0-1 Miles,Europe,37,No,NaN
+14696,Single,Male,10000,0,Manual,0-1 Miles,Europe,34,No,NaN
+22005,Married,Female,70000,5,Skilled Manual,5-10 Miles,Pacific,46,No,NaN
+14544,Single,Male,10000,1,Manual,0-1 Miles,Europe,49,No,NaN
+14312,Married,Female,60000,1,Skilled Manual,5-10 Miles,Pacific,45,No,NaN
+29120,Single,Female,100000,1,Management,2-5 Miles,Pacific,48,No,NaN
+24187,Single,Female,30000,3,Clerical,0-1 Miles,Europe,46,Yes,NaN
+15758,Married,Male,130000,0,Management,5-10 Miles,Pacific,48,No,NaN
+29094,Married,Male,30000,3,Skilled Manual,5-10 Miles,Pacific,54,Yes,NaN
+28319,Single,Female,60000,1,Skilled Manual,0-1 Miles,Pacific,46,Yes,NaN
+16406,Married,Male,40000,0,Clerical,0-1 Miles,Europe,38,Yes,NaN
+20923,Married,Female,40000,1,Skilled Manual,0-1 Miles,Europe,42,Yes,NaN
+11378,Single,Female,10000,1,Manual,2-5 Miles,Europe,46,Yes,NaN
+20851,Single,Male,20000,0,Manual,2-5 Miles,Europe,36,Yes,NaN
+21557,Single,Female,110000,0,Management,10+ Miles,Pacific,32,Yes,NaN
+26663,Single,Female,60000,2,Professional,0-1 Miles,Pacific,39,Yes,NaN
+11896,Married,Male,100000,1,Management,2-5 Miles,Pacific,36,Yes,NaN
+14189,Married,Female,90000,4,Professional,2-5 Miles,Europe,54,Yes,NaN
+13136,Married,Female,30000,2,Clerical,5-10 Miles,Pacific,69,No,NaN
+25906,Single,Female,10000,5,Skilled Manual,1-2 Miles,Pacific,62,No,NaN
+17926,NaN,Female,NaN,0,Clerical,0-1 Miles,Pacific,28,Yes,NaN
+26928,Single,Male,30000,1,Clerical,0-1 Miles,Europe,62,Yes,NaN
+20897,Married,Female,30000,1,Skilled Manual,0-1 Miles,Europe,40,No,NaN
+28207,Married,Male,80000,4,Management,0-1 Miles,Pacific,36,Yes,NaN
+25923,Single,Male,10000,2,Clerical,5-10 Miles,Pacific,58,No,NaN
+11000,Married,Male,90000,2,Professional,1-2 Miles,Pacific,40,Yes,NaN
+20974,Married,Male,10000,2,Clerical,0-1 Miles,Europe,66,No,NaN
+28758,Married,Male,40000,2,Clerical,1-2 Miles,Europe,35,Yes,NaN
+11381,Married,Female,20000,2,Manual,2-5 Miles,Europe,47,Yes,NaN
+17522,Married,Male,120000,4,Management,2-5 Miles,Pacific,47,No,NaN
+21207,Married,Male,60000,1,Skilled Manual,5-10 Miles,Pacific,46,No,NaN
+28102,Married,Male,20000,4,Skilled Manual,5-10 Miles,Pacific,58,Yes,NaN
+23105,Single,Male,40000,3,Clerical,5-10 Miles,Pacific,52,Yes,NaN
+18740,Married,Male,80000,5,Professional,0-1 Miles,Pacific,47,Yes,NaN
+21213,Single,Male,70000,0,Professional,5-10 Miles,Pacific,41,No,NaN
+17352,Married,Male,50000,2,Management,5-10 Miles,Pacific,64,Yes,NaN
+14154,Married,Male,30000,0,Clerical,0-1 Miles,Europe,35,Yes,NaN
+19066,Married,Male,130000,4,Professional,10+ Miles,Europe,54,No,NaN
+11386,Married,Female,30000,3,Clerical,0-1 Miles,Europe,45,No,NaN
+20228,Married,Male,100000,0,Management,2-5 Miles,Pacific,40,Yes,NaN
+16675,Single,Female,160000,0,Management,0-1 Miles,Pacific,47,Yes,NaN
+16410,Single,Female,10000,4,Manual,0-1 Miles,Europe,41,Yes,NaN
+27760,Single,Female,40000,0,Clerical,0-1 Miles,Europe,37,Yes,NaN
+22930,Married,Male,90000,4,Professional,1-2 Miles,Pacific,38,Yes,NaN
+23780,Single,Male,40000,2,Clerical,0-1 Miles,Europe,36,Yes,NaN
+20994,Married,Female,20000,0,Clerical,0-1 Miles,Pacific,26,Yes,NaN
+28379,Married,Male,30000,1,Skilled Manual,0-1 Miles,Europe,40,No,NaN
+14865,Single,Male,40000,2,Clerical,1-2 Miles,Europe,36,No,NaN
+12663,Married,Female,90000,5,Skilled Manual,10+ Miles,Europe,59,No,NaN
+24898,Single,Female,80000,0,Professional,10+ Miles,Pacific,32,No,NaN
+19508,Married,Male,10000,0,Manual,0-1 Miles,Europe,30,No,NaN
+11489,Single,Female,20000,0,Manual,1-2 Miles,Europe,35,Yes,NaN
+18160,Married,Male,130000,3,Professional,5-10 Miles,Europe,51,Yes,NaN
+25241,Married,Male,90000,2,Professional,5-10 Miles,Pacific,47,No,NaN
+24369,Married,NaN,80000,5,Management,0-1 Miles,Pacific,39,No,NaN
+27165,Single,Male,20000,0,Manual,0-1 Miles,Europe,34,No,NaN
+29424,Married,Male,10000,0,Manual,0-1 Miles,Europe,32,No,NaN
+15926,Single,Female,120000,3,Professional,5-10 Miles,Europe,50,Yes,NaN
+14554,Married,Male,20000,1,Clerical,0-1 Miles,Europe,66,No,NaN
+16468,Single,Male,30000,0,Clerical,2-5 Miles,Europe,30,No,NaN
+19174,Single,Female,30000,0,Manual,2-5 Miles,Europe,32,Yes,NaN
+19183,Single,Male,10000,0,Manual,1-2 Miles,Europe,35,No,NaN
+13683,Single,Female,30000,0,Manual,2-5 Miles,Europe,32,No,NaN
+17848,Single,Male,30000,0,Clerical,2-5 Miles,Europe,31,Yes,NaN
+17894,Married,Female,20000,1,Clerical,0-1 Miles,Europe,50,Yes,NaN
+25651,Married,Male,40000,1,Skilled Manual,0-1 Miles,Europe,43,Yes,NaN
+22936,Single,Female,60000,1,Skilled Manual,0-1 Miles,Pacific,45,Yes,NaN
+23915,Married,Male,20000,2,Manual,0-1 Miles,Europe,42,No,NaN
+24121,Single,Female,30000,0,Clerical,0-1 Miles,Europe,29,Yes,NaN
+27878,Single,Male,20000,0,Manual,0-1 Miles,Pacific,28,Yes,NaN
+13572,Single,Male,10000,3,Manual,0-1 Miles,Europe,37,Yes,NaN
+27941,Married,Female,80000,4,Professional,2-5 Miles,Europe,53,No,NaN
+26354,Single,Male,40000,0,Clerical,0-1 Miles,Europe,38,Yes,NaN
+14785,Single,Male,30000,1,Clerical,1-2 Miles,Europe,39,No,NaN
+17238,Single,Male,80000,0,Professional,10+ Miles,Pacific,32,No,NaN
+23608,Married,Female,150000,3,Professional,0-1 Miles,Europe,51,Yes,NaN
+22538,Single,Female,10000,0,Manual,1-2 Miles,Europe,33,No,NaN
+12332,Married,Male,90000,4,Management,5-10 Miles,Europe,58,Yes,NaN
+17230,Married,Male,80000,0,Professional,10+ Miles,Pacific,30,No,NaN
+13082,Single,Male,130000,0,Management,2-5 Miles,Pacific,48,Yes,NaN
+22518,Single,Female,30000,3,Clerical,0-1 Miles,Europe,27,Yes,NaN
+13687,Married,Male,40000,1,Skilled Manual,0-1 Miles,Europe,33,Yes,NaN
+23571,Married,Female,40000,2,Management,0-1 Miles,Pacific,66,Yes,NaN
+19305,Single,Female,10000,2,Manual,0-1 Miles,Europe,38,Yes,NaN
+22636,Single,Female,40000,0,Clerical,0-1 Miles,Europe,38,Yes,NaN
+17310,Married,Male,60000,1,Skilled Manual,0-1 Miles,Pacific,45,Yes,NaN
+12133,Married,Female,130000,3,Professional,5-10 Miles,Europe,50,Yes,NaN
+25918,Single,Female,30000,2,Clerical,5-10 Miles,Pacific,60,Yes,NaN
+25752,Single,Female,20000,2,Manual,0-1 Miles,Europe,53,Yes,NaN
+17324,Married,Female,100000,4,Professional,10+ Miles,Pacific,46,No,NaN
+22918,Single,Male,80000,5,Management,0-1 Miles,Pacific,NaN,No,NaN
+12510,Married,Male,40000,1,Skilled Manual,0-1 Miles,Europe,43,Yes,NaN
+25512,Single,Male,20000,0,Manual,2-5 Miles,Europe,30,No,NaN
+16179,Single,Female,80000,5,Professional,1-2 Miles,Pacific,38,No,NaN
+15628,Married,Female,40000,1,Skilled Manual,0-1 Miles,Europe,89,No,NaN
+20977,Married,Male,20000,1,Clerical,0-1 Miles,Europe,64,Yes,NaN
+18140,Married,Male,130000,3,Professional,5-10 Miles,Europe,51,Yes,NaN
+20417,Married,Male,30000,3,Clerical,5-10 Miles,Pacific,56,No,NaN
+18267,Married,Male,60000,3,Professional,5-10 Miles,Pacific,43,No,NaN
+13620,Single,Male,70000,0,Professional,10+ Miles,Pacific,30,Yes,NaN
+22974,Married,Female,30000,2,Clerical,5-10 Miles,Pacific,69,No,NaN
+13586,Married,Male,80000,4,Professional,10+ Miles,Europe,53,No,NaN
+17978,Married,Male,40000,0,Clerical,0-1 Miles,Europe,37,Yes,NaN
+12581,Single,Female,10000,0,Manual,0-1 Miles,Pacific,28,Yes,NaN
+18018,Single,Male,30000,3,Clerical,0-1 Miles,Europe,43,No,NaN
+28957,Single,Female,120000,NaN,Professional,10+ Miles,Pacific,34,Yes,NaN
+13690,Single,Female,20000,0,Manual,1-2 Miles,Europe,34,Yes,NaN
+12568,Married,Female,30000,1,Clerical,0-1 Miles,Europe,64,No,NaN
+13122,Married,Female,80000,0,Professional,1-2 Miles,Pacific,41,Yes,NaN
+21184,Single,Male,70000,0,Professional,5-10 Miles,Pacific,38,No,NaN
+26150,Single,Female,70000,0,Professional,0-1 Miles,Pacific,41,Yes,NaN
+24151,Single,Male,20000,1,Clerical,0-1 Miles,Europe,51,No,NaN
+23962,Married,Female,10000,0,Manual,1-2 Miles,Europe,32,No,NaN
+17793,Married,Female,40000,0,Clerical,0-1 Miles,Europe,38,Yes,NaN
+14926,Married,Male,30000,1,Clerical,0-1 Miles,Europe,38,Yes,NaN
+16163,Single,Male,60000,2,Professional,2-5 Miles,Pacific,38,Yes,NaN
+21365,Married,Female,10000,2,Clerical,5-10 Miles,Pacific,58,No,NaN
+27771,Single,Male,30000,1,Clerical,1-2 Miles,Europe,39,Yes,NaN
+26167,Single,Female,40000,2,Management,5-10 Miles,Pacific,53,Yes,NaN
+25792,Single,Female,110000,3,Management,10+ Miles,Europe,53,No,NaN
+11555,Married,Female,40000,1,Clerical,0-1 Miles,Europe,80,No,NaN
+22381,Married,Male,10000,1,Manual,0-1 Miles,Europe,44,No,NaN
+17882,Married,Male,20000,1,Clerical,0-1 Miles,Europe,44,No,NaN
+22174,Married,Male,30000,3,Skilled Manual,5-10 Miles,Pacific,648,Yes,NaN
+22439,Married,Female,30000,0,Clerical,0-1 Miles,Europe,37,Yes,NaN
+18012,Married,Female,40000,1,Skilled Manual,0-1 Miles,Europe,41,No,NaN
+27582,Single,Female,90000,2,Professional,0-1 Miles,Pacific,36,Yes,NaN
+12744,Single,Female,40000,2,Clerical,0-1 Miles,Europe,33,No,NaN
+22821,Married,Female,130000,3,Professional,0-1 Miles,Europe,52,No,NaN
+20171,Married,Female,20000,2,Manual,0-1 Miles,Europe,46,Yes,NaN
+11116,Married,Male,70000,5,Skilled Manual,5-10 Miles,Pacific,43,No,NaN
+20053,Single,Male,40000,2,Clerical,0-1 Miles,Europe,34,No,NaN
+25266,Single,Female,30000,2,Clerical,5-10 Miles,Pacific,67,No,NaN
+17960,Married,Female,40000,0,Clerical,0-1 Miles,Europe,35,Yes,NaN
+13961,Married,Female,80000,5,Management,0-1 Miles,Pacific,40,No,NaN
+11897,Single,Male,60000,2,Professional,0-1 Miles,Pacific,37,Yes,NaN
+11139,Single,Female,30000,2,Clerical,5-10 Miles,Pacific,67,No,NaN
+11576,Married,Male,30000,1,Skilled Manual,0-1 Miles,Europe,41,Yes,NaN
+19255,Single,Male,10000,2,Manual,0-1 Miles,Europe,51,Yes,NaN
+18153,Married,Female,100000,2,Management,10+ Miles,Europe,59,No,NaN
+14547,Married,Male,10000,2,Manual,1-2 Miles,Europe,51,No,NaN
+24901,Single,Male,110000,0,Management,10+ Miles,Pacific,32,Yes,NaN
+27169,Single,Male,30000,0,Manual,2-5 Miles,Europe,34,Yes,NaN
+14805,Single,Female,10000,3,Manual,0-1 Miles,Europe,43,No,NaN
+15822,Married,Male,40000,2,Management,0-1 Miles,Pacific,67,No,NaN
+19389,Single,Male,30000,0,Clerical,2-5 Miles,Europe,28,No,NaN
+17048,Single,Female,90000,1,Management,0-1 Miles,Pacific,36,Yes,NaN
+22204,Married,Male,110000,4,Management,2-5 Miles,Pacific,48,No,NaN
+12718,Single,Female,30000,0,Clerical,2-5 Miles,Europe,31,No,NaN
+15019,Single,Female,30000,3,Skilled Manual,5-10 Miles,Pacific,55,No,NaN
+28488,Single,Male,20000,0,Manual,0-1 Miles,Pacific,28,Yes,NaN
+21891,Married,Female,110000,0,Management,10+ Miles,Pacific,34,Yes,NaN
+27814,Single,Female,30000,3,Clerical,0-1 Miles,Europe,26,No,NaN
+22175,Married,Female,30000,3,Skilled Manual,5-10 Miles,Pacific,53,Yes,NaN
+29447,Single,Female,10000,2,Clerical,2-5 Miles,Europe,68,No,NaN
+19784,Married,Female,80000,2,Skilled Manual,5-10 Miles,Pacific,50,Yes,NaN
+27824,Single,Female,30000,3,Clerical,0-1 Miles,Europe,28,Yes,NaN
+24093,Single,Female,80000,0,Skilled Manual,0-1 Miles,Europe,40,Yes,NaN
+19618,Married,Male,70000,5,Skilled Manual,0-1 Miles,Pacific,44,No,NaN
+21561,Single,Male,90000,0,Professional,10+ Miles,Pacific,34,Yes,NaN
+11061,Married,Male,NaN,2,Skilled Manual,5-10 Miles,Pacific,624,Yes,NaN
+26651,Single,Male,80000,4,Management,0-1 Miles,Pacific,36,Yes,NaN
+21108,Married,Female,40000,1,Skilled Manual,0-1 Miles,Europe,43,Yes,NaN
+12731,Single,Male,30000,0,Manual,1-2 Miles,Europe,32,No,NaN
+25307,Married,Female,40000,1,Skilled Manual,1-2 Miles,Europe,32,Yes,NaN
+14278,Married,Female,130000,0,Management,10+ Miles,Pacific,48,No,NaN
+20711,Married,Female,40000,1,Skilled Manual,1-2 Miles,Europe,32,Yes,NaN
+11383,Married,Female,30000,3,Clerical,0-1 Miles,Europe,46,No,NaN
+12497,Married,Female,40000,1,Skilled Manual,0-1 Miles,Europe,42,No,NaN
+16559,Single,Female,10000,2,Manual,0-1 Miles,Europe,36,Yes,NaN
+11585,Married,Female,40000,1,Skilled Manual,0-1 Miles,Europe,41,No,NaN
+20277,Married,Female,30000,2,Clerical,0-1 Miles,Pacific,69,No,NaN
+26765,Single,Female,70000,5,Skilled Manual,5-10 Miles,Pacific,45,No,NaN
+12389,Single,Male,30000,0,Manual,2-5 Miles,Europe,34,No,NaN
+13585,Married,Female,80000,4,Professional,2-5 Miles,Europe,53,Yes,NaN
+26385,Single,Male,120000,3,Professional,5-10 Miles,Europe,50,No,NaN
+12236,Married,Female,20000,1,Manual,0-1 Miles,Europe,65,No,NaN
+21560,Married,Male,120000,0,Professional,10+ Miles,Pacific,32,Yes,NaN
+21554,Single,Female,80000,0,Professional,10+ Miles,Pacific,33,No,NaN
+13662,Single,Male,20000,0,Manual,1-2 Miles,Europe,31,Yes,NaN
+13089,Married,Female,120000,1,Management,0-1 Miles,Pacific,46,Yes,NaN
+14791,Married,Female,40000,0,Clerical,0-1 Miles,Europe,39,Yes,NaN
+19331,Single,Male,20000,2,Manual,0-1 Miles,Europe,40,No,NaN
+17754,Single,Female,30000,3,Clerical,0-1 Miles,Europe,46,Yes,NaN
+11149,Married,Male,40000,2,Management,0-1 Miles,Pacific,65,No,NaN
+16549,Single,Female,30000,3,Clerical,0-1 Miles,Europe,47,Yes,NaN
+24305,Single,Male,100000,1,Management,0-1 Miles,Pacific,46,Yes,NaN
+18253,Married,Female,80000,5,Management,0-1 Miles,Pacific,40,No,NaN
+20147,Married,Female,30000,1,Clerical,0-1 Miles,Europe,65,No,NaN
+15612,Single,Male,30000,0,Manual,1-2 Miles,Europe,28,No,NaN
+28323,Single,Male,70000,0,Professional,5-10 Miles,Pacific,43,Yes,NaN
+22634,Single,Female,40000,0,Clerical,0-1 Miles,Europe,456,Yes,NaN
+15665,Married,Female,30000,0,Clerical,0-1 Miles,Europe,47,Yes,NaN
+27585,Married,Female,90000,2,Professional,0-1 Miles,Pacific,36,Yes,NaN
+19748,Married,Male,20000,4,Skilled Manual,1-2 Miles,Pacific,60,No,NaN
+21974,Single,Female,70000,0,Professional,5-10 Miles,Pacific,42,Yes,NaN
+14032,Married,Male,70000,2,Skilled Manual,1-2 Miles,Pacific,50,Yes,NaN
+22610,Married,Male,30000,0,Clerical,0-1 Miles,Europe,35,Yes,NaN
+26984,Married,Male,40000,1,Skilled Manual,0-1 Miles,Europe,32,Yes,NaN
+18294,Married,Female,90000,1,Professional,5-10 Miles,Pacific,46,No,NaN
+28564,Single,Female,40000,2,Clerical,1-2 Miles,Europe,33,Yes,NaN
+28521,Single,Male,40000,0,Clerical,0-1 Miles,Europe,36,Yes,NaN
+15450,Married,Male,10000,1,Clerical,0-1 Miles,Europe,70,No,NaN
+25681,Single,Female,30000,0,Clerical,2-5 Miles,Europe,31,Yes,NaN
+19491,Single,Male,30000,2,Clerical,0-1 Miles,Europe,42,No,NaN
+26415,Married,Female,90000,4,Skilled Manual,10+ Miles,Europe,58,No,NaN
+12821,Married,Male,40000,0,Clerical,0-1 Miles,Europe,39,No,NaN
+15629,Single,Female,10000,0,Manual,1-2 Miles,Europe,34,No,NaN
+27835,Married,Male,20000,0,Manual,0-1 Miles,Europe,32,No,NaN
+11738,Married,Male,60000,4,Professional,2-5 Miles,North America,46,No,NaN
+25065,Married,Male,70000,2,Skilled Manual,5-10 Miles,North America,48,No,NaN
+26238,Single,Female,40000,3,Clerical,1-2 Miles,North America,31,Yes,NaN
+23707,Single,Male,70000,5,Management,10+ Miles,North America,60,Yes,NaN
+27650,Married,Male,70000,4,Professional,5-10 Miles,North America,51,No,NaN
+24981,Married,Male,60000,2,Professional,10+ Miles,North America,56,No,NaN
+20678,Single,Female,60000,3,Skilled Manual,2-5 Miles,North America,40,Yes,NaN
+15302,Single,Female,70000,1,Professional,2-5 Miles,North America,34,Yes,NaN
+26012,Married,Male,80000,1,Skilled Manual,2-5 Miles,North America,48,Yes,NaN
+26575,Single,Female,40000,0,Skilled Manual,1-2 Miles,North America,31,Yes,NaN
+22518,Single,Female,30000,3,Clerical,0-1 Miles,Europe,27,Yes,NaN
+26956,Single,Female,20000,0,Manual,2-5 Miles,Europe,36,Yes,NaN
+16179,Single,Female,80000,5,Professional,1-2 Miles,Pacific,38,No,NaN
+14798,Single,Female,10000,4,Manual,0-1 Miles,Europe,492,Yes,NaN
+18491,Single,Female,70000,2,Professional,5-10 Miles,Pacific,49,Yes,NaN
